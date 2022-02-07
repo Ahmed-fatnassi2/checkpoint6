@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+    background-color: #7b86da;
+}
+.button {
+    background-color: #4ca0af;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 100px;
+}
